@@ -60,4 +60,5 @@ There will be three layour for the project. watch below designs to understand la
 </table>
 # dragon-news
 
-# Live link : https://dragon-newscom.netlify.app/Category/1
+# Live link : 
+ - **1**: https://dragon-newscom.netlify.app/Category/1

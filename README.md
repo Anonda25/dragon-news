@@ -53,8 +53,8 @@ There will be three layour for the project. watch below designs to understand la
 
 <table>
  <tr>
-   <td> <img  src="design/auth-layout-login.png"/></td>
-   <td> <img src="design/auth-layout-register.png"/></td>
+   <td> <img  src="./src/assets/login.png"/></td>
+   <td> <img src="./src/assets/register.png"/></td>
  
  </tr> 
 </table>

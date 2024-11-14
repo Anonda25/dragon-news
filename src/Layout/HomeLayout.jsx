@@ -18,7 +18,7 @@ const HomeLayout = () => {
         <Navber></Navber>
       </nav>
       {/* new topices / coding new style */}
-      <main className="w-11/12 mx-auto  grid grid-cols-12">
+      <main className="w-11/12 mx-auto  grid grid-cols-12 gap-5">
         <aside className=" left col-span-3">
           <LeftSide></LeftSide>
         </aside>
